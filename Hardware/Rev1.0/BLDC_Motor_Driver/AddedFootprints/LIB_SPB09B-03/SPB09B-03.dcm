@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPB09B-03
+D Isolated DC/DC Converters 24Vin 3.3V 0-2000mA 9W Iso Reg SIP
+K
+F https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/SPB09/SPB09,DPB09-spec.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV9024QPWRQ1
+D Automotive, 5.5-V, low-voltage, high-performance, quad open-drain comparator with 120-ns delay
+K
+F https://www.ti.com/lit/ds/symlink/tlv9024-q1.pdf?ts=1630838462923&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTLV9024QPWRQ1
+$ENDCMP
+#
+#End Doc Library

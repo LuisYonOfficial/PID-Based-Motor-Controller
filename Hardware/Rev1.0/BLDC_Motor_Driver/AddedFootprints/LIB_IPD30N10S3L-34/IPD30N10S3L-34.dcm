@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD30N10S3L-34
+D Infineon IPD30N10S3L-34 N-channel MOSFET Transistor, 30 A, 100 V, 3-Pin TO-252
+K
+F https://www.infineon.com/dgdl/Infineon-IPD30N10S3L_34-DS-v01_01-en.pdf?fileId=db3a30431a5c32f2011a908963135956
+$ENDCMP
+#
+#End Doc Library

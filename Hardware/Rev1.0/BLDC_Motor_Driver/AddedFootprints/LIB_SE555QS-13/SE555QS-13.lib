@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SE555QS-13
+#/708324/1082652/2.50/8/3/Integrated Circuit
+DEF SE555QS-13 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "SE555QS-13" 1050 200 50 H V L CNN
+F2 "SOIC127P600X170-8N" 1050 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/SE555Q.pdf" 1050 0 50 H I L CNN
+F4 "Timers & Support Products Automotive Grade Precision Timer" 1050 -100 50 H I L CNN "Description"
+F5 "1.7" 1050 -200 50 H I L CNN "Height"
+F6 "621-SE555QS-13" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SE555QS-13?qs=MHUP4w%2FlnDyIUxZVHd9p8w%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Inc." 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SE555QS-13" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X GND 1 0 0 200 R 50 50 0 0 P
+X TRIG 2 0 -100 200 R 50 50 0 0 P
+X OUT 3 0 -200 200 R 50 50 0 0 P
+X RESET 4 0 -300 200 R 50 50 0 0 P
+X VCC 8 1200 0 200 L 50 50 0 0 P
+X DISCH 7 1200 -100 200 L 50 50 0 0 P
+X THRES 6 1200 -200 200 L 50 50 0 0 P
+X CONT 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

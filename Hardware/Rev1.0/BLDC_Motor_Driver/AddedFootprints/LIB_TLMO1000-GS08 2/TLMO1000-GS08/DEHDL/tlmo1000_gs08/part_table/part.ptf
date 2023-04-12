@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLMO1000_GS08'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "TLMO1000-GS08" (!) = "", "LEDC1608X65N", "LEDs Chip", "78-TLMO1000", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TLMO1000-GS08?qs=oNDV51lhjEPQ5ghR1MAWhw%3D%3D", "LED Uni-Color Orange 610nm Vishay TLMO1000-GS08 Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package", "https://componentsearchengine.com/Datasheets/2/TLMO1000-GS08.pdf", "0.65 mm"
+END_PART
+
+END.

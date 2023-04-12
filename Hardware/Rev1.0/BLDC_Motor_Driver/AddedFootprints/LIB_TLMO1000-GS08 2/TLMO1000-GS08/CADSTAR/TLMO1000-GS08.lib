@@ -1,0 +1,16 @@
+.TLMO1000-GS08 :1 ;LED Uni-Color Orange 610nm Vishay TLMO1000-GS08 Orange LED, 605 nm, 1608 (0603), Rectangle Lens SMD Package
+LEDC1608X65N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN TLMO1000-GS08
+~!Mouser Part Number (78-TLMO1000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TLMO1000-GS08?qs=oNDV51lhjEPQ5ghR1MAWhw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (TLMO1000-GS08)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/TLMO1000-GS08.pdf)
+~!Height (0.65mm)
+~!3D_Model (TLMO1000-GS08)
+TLMO1000-GS08
+1.1!U 2.1!U 

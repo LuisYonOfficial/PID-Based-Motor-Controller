@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=TLMO1000-GS08
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=3.1
+Released=2016-09-26 17:12:15
+Downloaded=2023-04-12 00:58:07
+3D=Y

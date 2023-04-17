@@ -229,7 +229,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 0a317b73-ecec-4168-b46a-0d35cf5abef6)
-    (at 189.992 105.346 90)
+    (at 189.992 106.743 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -613,7 +613,7 @@
 
   (footprint "Diode_SMD:SOD3716X145N" (layer "F.Cu")
     (tstamp 215c1a73-1d23-417e-9ce4-c71a0b918aa5)
-    (at 188.292 76.454)
+    (at 187.96 75.883)
     (descr "SOD-123-")
     (tags "Schottky Diode")
     (property "Description" "Schottky Diodes & Rectifiers Schottky Rectifier")
@@ -755,7 +755,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 2529a268-6d67-4f52-b492-d20d11bbaae2)
-    (at 155.497 106.108 90)
+    (at 155.067 106.235 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -2530,7 +2530,7 @@
 
   (footprint "Diode_SMD:SOD3716X145N" (layer "F.Cu")
     (tstamp 8774f72f-c14d-44c1-8d06-a7c6db5f3d74)
-    (at 188.087 101.981)
+    (at 188.087 103.378)
     (descr "SOD-123-")
     (tags "Schottky Diode")
     (property "Description" "Schottky Diodes & Rectifiers Schottky Rectifier")
@@ -2672,7 +2672,7 @@
 
   (footprint "Diode_SMD:SOD3716X145N" (layer "F.Cu")
     (tstamp 99782bd1-0fed-4a04-9822-edcd065fb3c4)
-    (at 156.972 102.997)
+    (at 156.542 103.124)
     (descr "SOD-123-")
     (tags "Schottky Diode")
     (property "Description" "Schottky Diodes & Rectifiers Schottky Rectifier")
@@ -2858,7 +2858,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp b65830e2-deef-49aa-9bd3-52a818c01fe2)
-    (at 187.022 79.692 90)
+    (at 186.69 79.121 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -3044,7 +3044,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp bdd5a5d6-ca9e-4e18-b6ba-35195323e1d3)
-    (at 190.197 79.629 90)
+    (at 189.865 79.058 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -3396,7 +3396,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp d1d534db-06cc-4ec2-bddb-d4c99941a76f)
-    (at 158.545 106.235 90)
+    (at 158.115 106.362 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -3450,7 +3450,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp d3ce5e6f-3d07-4061-8cc5-87e151291409)
-    (at 102.045 64.897)
+    (at 156.655 88.265)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
@@ -3744,7 +3744,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp e586d89f-23f4-47d5-9dc0-d547fcb9d72c)
-    (at 186.817 105.41 90)
+    (at 186.817 106.807 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "BLDC_Motor_Driver.kicad_sch")
